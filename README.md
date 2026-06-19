@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-en-ruinas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Pasión en ruinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-ruinas/) |
+| **Get License** | [Obtain a Music License for Pasión en ruinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-ruinas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `ab672898453ec383c443b66b6b53b0b3ff89ba7be1cb2f954ea65dcba6e707a4` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `2931c12423a309059951d3f3e43ce76225f85efedf618f0691d34f2228e491aa` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
