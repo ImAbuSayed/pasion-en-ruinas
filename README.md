@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-en-ruinas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Pasión en ruinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-ruinas/) |
+| **Get License** | [Get License For Pasión en ruinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-ruinas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche nos perdemos en la ciudad
+> Tú y yo encendiendo el fuego en la oscuridad
+> Una pasión en ruinas que volvemos a armar
+> Baby, deja el miedo, solo déjate llevar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
